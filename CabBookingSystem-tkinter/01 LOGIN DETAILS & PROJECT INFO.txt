@@ -1,6 +1,4 @@
-**Log on to codeastro.com for more projects!**
-
-**Developed by Aman**
+**Developed by Isha**
 
 **Recommended Python Version 2.x or 3.x**
 
@@ -12,5 +10,5 @@ OR
 
 **Login Details**
 
-Username: william
+Username:Isha
 Password: password
